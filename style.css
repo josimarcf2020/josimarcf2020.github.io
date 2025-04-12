@@ -16,10 +16,34 @@ img {
     width: 20%;
 }
 
+main {
+    display: inline-block;
+    width: 100%;
+    height: 60%;
+}
+
+.menu {
+    display: inline-block;
+    text-align: center; 
+    width: 100%;
+    background-color: rgba(56, 67, 85, 0.732);
+}
+
+.detalhamento {
+    background: url('./img/thomas-heintz-background.jpg') no-repeat center/cover;
+    padding: 10px;
+    width: 100%;
+    min-height: 300px;
+}
+
 #img-whatsapp {
-    width: 3%;
+    width: 2%;
 }
 
 #titulo-descricao {
-    width: 70%;
+    width: 100%;
+}
+
+h3 {
+    padding: 10px;
 }
