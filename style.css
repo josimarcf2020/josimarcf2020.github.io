@@ -25,7 +25,8 @@ main {
 }
 
 .menu {
-    display: inline-block;
+    display: flex;
+    flex-wrap: wrap;
     text-align: center; 
     background-color: rgba(56, 67, 85, 0.732);
     margin-left: auto;
