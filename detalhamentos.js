@@ -51,15 +51,16 @@ document.addEventListener('DOMContentLoaded', () => {
     txtExperiencia += '         </ul>';
     txtExperiencia += '         <li><strong>APP de Notícias</strong>: Aplicativo em duas telas desenvolvido em Swift, consumindo API <a href="https://newsapi.org/">News API</a>, onde a primeira tela exibe uma listagem de noticias (que pode ser filtrada) e a segunda detalha a noticia selecionada.</li>';
     txtExperiencia += '     </ul>';
-    txtExperiencia += '     <li><strong>Programador Júnior - Cooperativa Mista dos Avicultores do Piauí | Jan 2007 - Abr 2007</strong>';
-    txtExperiencia += '     <ul>';
-    txtExperiencia += '         <li>Desenvolvimento de Sistema de TI, prestando atendimento aos incidentes gerados pelo uso do sistema adotado pela empresa. Linguagem xHarbour, Delphi, SGDB MySql.';
-    txtExperiencia += '     </ul>';
-    txtExperiencia += '     <li><strong>Programador Senior - AESPI Assoc de Ensino Superior do Piauí LTDA | Ago 1996 - Abr 2000</strong>';
-    txtExperiencia += '     <ul>';
-    txtExperiencia += '         <li>Desenvolvimento de Sistema de Gestão Escolar ADMESC, em linguagem Clipper, envolvendo desde o controle e acesso (frequencia escolar) via catraca eletrônica, controle financeiro, controle de notas e faltas, emissão de boletim escolar, realização de teste admissional escolar (teste seletivo), baixa de parcelas através de processamento de arquivo de movimentação bancária, e demais tarefas pertinentes e rotina escolar.</li>';
-    txtExperiencia += '         <li>Linguagem Clipper, Delphi, banco de dados relacional.</li>';
-    txtExperiencia += '     </ul>';
+    txtExperiencia += '  </ul>';
+    txtExperiencia += '  <li><strong>Programador Júnior - Cooperativa Mista dos Avicultores do Piauí | Jan 2007 - Abr 2007</strong>';
+    txtExperiencia += '  <ul>';
+    txtExperiencia += '      <li>Desenvolvimento de Sistema de TI, prestando atendimento aos incidentes gerados pelo uso do sistema adotado pela empresa. Linguagem xHarbour, Delphi, SGDB MySql.';
+    txtExperiencia += '  </ul>';
+    txtExperiencia += '  <li><strong>Programador Senior - AESPI Assoc de Ensino Superior do Piauí LTDA | Ago 1996 - Abr 2000</strong>';
+    txtExperiencia += '  <ul>';
+    txtExperiencia += '      <li>Desenvolvimento de Sistema de Gestão Escolar ADMESC, em linguagem Clipper, envolvendo desde o controle e acesso (frequencia escolar) via catraca eletrônica, controle financeiro, controle de notas e faltas, emissão de boletim escolar, realização de teste admissional escolar (teste seletivo), baixa de parcelas através de processamento de arquivo de movimentação bancária, e demais tarefas pertinentes e rotina escolar.</li>';
+    txtExperiencia += '      <li>Linguagem Clipper, Delphi, banco de dados relacional.</li>';
+    txtExperiencia += '  </ul>';
     txtExperiencia += ' </ul>';
     txtExperiencia += '</ul>';
 
