@@ -91,11 +91,10 @@ document.addEventListener('DOMContentLoaded', () => {
         contatos: txtContatos
     };
 
-    document.querySelectorAll('.btn-secondary').forEach(button => {
+    document.querySelectorAll('.btn-primary').forEach(button => {
         button.addEventListener('click', () => {
             const action = button.getAttribute('data-action');
             detalhamento.innerHTML = conteudo[action] || '<p>Conteúdo não disponível</p>';
-            alert('Role o conteúdo para cima.')
         });
     });
 });
