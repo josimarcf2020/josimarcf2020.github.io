@@ -95,6 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
         button.addEventListener('click', () => {
             const action = button.getAttribute('data-action');
             detalhamento.innerHTML = conteudo[action] || '<p>Conteúdo não disponível</p>';
+            alert('Role o conteúdo para cima.')
         });
     });
 });
