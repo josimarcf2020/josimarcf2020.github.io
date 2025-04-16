@@ -41,15 +41,14 @@ document.addEventListener('DOMContentLoaded', () => {
     txtExperiencia += '         <ul>';
     txtExperiencia += '             <li>Recursos: xCode, desenvolvimento em dupla, Core Data</li>';
     txtExperiencia += '         </ul>';
-    txtExperiencia += '         <li><strong>fProject</strong>: Nome comercial indefinido, desenvolvido em Swift como solução doméstica para a gestão da comunicação entre alunos e gestores dos projetos</li>';
+    txtExperiencia += '         <li><strong><a href="https://github.com/residenciaiOS" target="_blank">fProject</a></strong>: Nome comercial indefinido, desenvolvido em Swift como solução doméstica para a gestão da comunicação entre alunos e gestores dos projetos</li>';
     txtExperiencia += '         <ul>';
     txtExperiencia += '             <li>Recursos: xCode, SwiftUI, MongoDB, Git/Github, Vapor</li>';
     txtExperiencia += '         </ul>';
-    txtExperiencia += '         <li><strong>CalmDesk</strong>: Aplicativo para gestão de demandas genéricas em pequenas empresas, visando acompanhar as solicitações e destinar soluções cabíveis.</li>';
+    txtExperiencia += '         <li><strong><a href="https://github.com/RESTIC12/HelpDesk" target="_blank">HelpDesk</a></strong>: Aplicativo para gestão de demandas genéricas em pequenas empresas, visando acompanhar as solicitações e destinar soluções cabíveis.</li>';
     txtExperiencia += '         <ul>';
     txtExperiencia += '             <li>Recursos: xCode, Swift, SwiftUI, Firebase, Git/Github</li>';
     txtExperiencia += '         </ul>';
-    txtExperiencia += '         <li><strong>APP de Notícias</strong>: Aplicativo em duas telas desenvolvido em Swift, consumindo API <a href="https://newsapi.org/">News API</a>, onde a primeira tela exibe uma listagem de noticias (que pode ser filtrada) e a segunda detalha a noticia selecionada.</li>';
     txtExperiencia += '     </ul>';
     txtExperiencia += '  </ul>';
     txtExperiencia += '  <li><strong>Programador Júnior - Cooperativa Mista dos Avicultores do Piauí | Jan 2007 - Abr 2007</strong>';
